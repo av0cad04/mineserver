@@ -195,3 +195,18 @@
 [22:58:27] [Server thread/INFO]: Villager class_1646['Farmer'/1512, l='ServerLevel[world]', x=-212.81, y=132.60, z=127.65] died, message: 'Farmer was slain by Zombie'
 [23:00:42] [Server thread/INFO]: Villager class_1646['Leatherworker'/1525, l='ServerLevel[world]', x=-254.30, y=107.94, z=134.49] died, message: 'Leatherworker was slain by Zombie'
 [23:05:02] [Server thread/INFO]: Avocado_20 was shot by Skeleton
+[23:21:44] [Server thread/INFO]: Avocado_20 lost connection: Disconnected
+[23:21:44] [Server thread/INFO]: Avocado_20 left the game
+[23:21:54] [Server thread/INFO]: Stopping the server
+[23:21:54] [Server thread/INFO]: Stopping server
+[23:21:54] [Server thread/INFO]: Saving players
+[23:21:54] [Server thread/INFO]: Saving worlds
+[23:21:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:21:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:21:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:21:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/kattersstructures:deep_blue
+[23:21:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:21:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:21:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:21:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (deep_blue): All chunks are saved
+[23:21:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

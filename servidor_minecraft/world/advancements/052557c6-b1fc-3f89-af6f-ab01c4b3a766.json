@@ -621,6 +621,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-11 23:21:35 +0000",
       "minecraft:zombie": "2025-06-11 22:01:56 +0000"
     },
     "done": false
@@ -640,6 +641,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-06-11 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-11 23:21:35 +0000"
     },
     "done": true
   },
