@@ -1,12 +1,12 @@
-[00:01:57] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
-[00:01:57] [main/WARN]: Warnings were found!
+[02:11:07] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
+[02:11:08] [main/WARN]: Warnings were found!
  - Mod 'More Mobs' (moremobs) 1.5.4+mod recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'More Mobs' (moremobs) 1.5.4+mod recommends any version of modmenu-badges-lib, which is missing!
 	 - You should install any version of modmenu-badges-lib for the optimal experience.
  - Mod 'More Mobs' (moremobs) 1.5.4+mod recommends any version of midnightlib, which is missing!
 	 - You should install any version of midnightlib for the optimal experience.
-[00:01:57] [main/INFO]: Loading 73 mods:
+[02:11:08] [main/INFO]: Loading 73 mods:
 	- advancednetherite 2.2.2-1.21.4
 	- architectury 15.0.3
 	- balm 21.4.34
@@ -91,83 +91,106 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[00:01:57] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/mineserver/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:01:58] [main/INFO]: Compatibility level set to JAVA_21
-[00:01:58] [main/INFO]: Loading config WWMixinsConfig from wilderwild
-[00:01:58] [main/INFO]: Saving config WWMixinsConfig from wilderwild
-[00:01:59] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:02:00] [main/INFO]: Deserializing URConfig from './config/uselessreptile.json5'
-[00:02:03] [main/INFO]: Loading config WWBlockConfig from wilderwild
-[00:02:03] [main/INFO]: Saving config WWBlockConfig from wilderwild
-[00:02:06] [main/INFO]: Loading config WWEntityConfig from wilderwild
-[00:02:06] [main/INFO]: Saving config WWEntityConfig from wilderwild
-[00:02:10] [main/INFO]: Initializing platform helper for Advanced Netherite!
-[00:02:10] [main/INFO]: [CopperHopper] Configuration loaded: {nbtMatchEnabledIds=minecraft:enchanted_book minecraft:potion minecraft:splash_potion minecraft:lingering_potion minecraft:arrow minecraft:tipped_arrow minecraft:spectral_arrow}
-[00:02:10] [main/INFO]: [CopperHopper] Initialized.
-[00:02:10] [main/INFO]: Loading config FrozenLibConfig from frozenlib
-[00:02:10] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[00:02:10] [main/INFO]: Initializing JamLib on Fabric
-[00:02:10] [main/INFO]: [More Mobs] Loaded More Mobs by Tschipcraft successfully!
-[00:02:10] [main/INFO]: Updated config file at /workspaces/mineserver/servidor_minecraft/config/rightclickharvest.json5
-[00:02:10] [main/INFO]: Initializing Right Click Harvest on FABRIC
-[00:02:11] [main/INFO]: Deserializing URMobAttributesConfig from './config/uselessreptile_mob_attributes.json5'
-[00:02:11] [main/INFO]: Deserializing URMobAttributesConfig from './config/uselessreptile_mob_attributes.json5'
-[00:02:11] [main/INFO]: Applying Minecraft-Version-Based DataFixes for Wilder Wild with Data Version 3
-[00:02:11] [FrozenLib Quilt Datafixer Bootstrap/INFO]: 2 Datafixer optimizations took 14 milliseconds
-[00:02:11] [main/INFO]: Minecraft-Version-Specific DataFixes for Wilder Wild have been applied
-[00:02:11] [main/INFO]: Applying DataFixes for Wilder Wild with Data Version 28
-[00:02:11] [FrozenLib Quilt Datafixer Bootstrap/INFO]: 27 Datafixer optimizations took 26 milliseconds
-[00:02:11] [main/INFO]: DataFixes for Wilder Wild have been applied
-[00:02:13] [main/INFO]: Adding Music And Ambience for wilderwild
-[00:02:13] [main/INFO]: Overriding Water Colors for wilderwild
-[00:02:13] [main/WARN]: Encountered duplicate API provider registration for block: wilderwild:stone_chest
-[00:02:13] [main/INFO]: Loading config WWWorldgenConfig from wilderwild
-[00:02:13] [main/INFO]: Saving config WWWorldgenConfig from wilderwild
-[00:02:13] [main/INFO]: Saving config WWMixinsConfig from wilderwild
-[00:02:13] [main/INFO]: Saving config WWBlockConfig from wilderwild
-[00:02:13] [main/INFO]: Saving config WWEntityConfig from wilderwild
-[00:02:13] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[00:02:13] [main/INFO]: Saving config WWWorldgenConfig from wilderwild
-[00:02:13] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:02:17] [main/INFO]: Loaded 1761 recipes
-[00:02:17] [main/INFO]: Loading config WWAmbienceAndMiscConfig from wilderwild
-[00:02:17] [main/INFO]: Saving config WWAmbienceAndMiscConfig from wilderwild
-[00:02:17] [main/INFO]: Loaded 2038 advancements
-[00:02:18] [main/INFO]: Applied 3645 biome modifications to 98 of 98 new biomes in 142.4 ms
-[00:02:18] [Server thread/INFO]: [Quilt DFU API] Serverside DataFixer Registry is about to freeze
-[00:02:18] [Server thread/INFO]: [Quilt DFU API] Serverside DataFixer Registry was frozen
-[00:02:18] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[00:02:18] [Server thread/INFO]: Loading properties
-[00:02:18] [Server thread/INFO]: Default game type: SURVIVAL
-[00:02:18] [Server thread/INFO]: Generating keypair
-[00:02:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:02:18] [Server thread/INFO]: Using epoll channel type
-[00:02:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:02:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:02:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:02:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:02:18] [Server thread/INFO]: Preparing level "world"
-[00:02:18] [Server thread/INFO]: Wilder Wild's Overworld Surface Rules have been added!
-[00:02:18] [Server thread/INFO]: Wilder Wild's No Preliminary Surface Overworld Surface Rules have been added!
-[00:02:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:27] [Server thread/INFO]: Time elapsed: 8815 ms
-[00:02:27] [Server thread/INFO]: Done (9.470s)! For help, type "help"
-[00:03:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:11:08] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/mineserver/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:11:08] [main/INFO]: Compatibility level set to JAVA_21
+[02:11:08] [main/INFO]: Loading config WWMixinsConfig from wilderwild
+[02:11:08] [main/INFO]: Saving config WWMixinsConfig from wilderwild
+[02:11:10] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02:11:10] [main/INFO]: Deserializing URConfig from './config/uselessreptile.json5'
+[02:11:13] [main/INFO]: Loading config WWBlockConfig from wilderwild
+[02:11:13] [main/INFO]: Saving config WWBlockConfig from wilderwild
+[02:11:17] [main/INFO]: Loading config WWEntityConfig from wilderwild
+[02:11:17] [main/INFO]: Saving config WWEntityConfig from wilderwild
+[02:11:21] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[02:11:21] [main/INFO]: [CopperHopper] Configuration loaded: {nbtMatchEnabledIds=minecraft:enchanted_book minecraft:potion minecraft:splash_potion minecraft:lingering_potion minecraft:arrow minecraft:tipped_arrow minecraft:spectral_arrow}
+[02:11:21] [main/INFO]: [CopperHopper] Initialized.
+[02:11:21] [main/INFO]: Loading config FrozenLibConfig from frozenlib
+[02:11:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[02:11:21] [main/INFO]: Initializing JamLib on Fabric
+[02:11:21] [main/INFO]: [More Mobs] Loaded More Mobs by Tschipcraft successfully!
+[02:11:22] [main/INFO]: Updated config file at /workspaces/mineserver/servidor_minecraft/config/rightclickharvest.json5
+[02:11:22] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[02:11:22] [main/INFO]: Deserializing URMobAttributesConfig from './config/uselessreptile_mob_attributes.json5'
+[02:11:22] [main/INFO]: Deserializing URMobAttributesConfig from './config/uselessreptile_mob_attributes.json5'
+[02:11:22] [main/INFO]: Applying Minecraft-Version-Based DataFixes for Wilder Wild with Data Version 3
+[02:11:22] [FrozenLib Quilt Datafixer Bootstrap/INFO]: 2 Datafixer optimizations took 18 milliseconds
+[02:11:22] [main/INFO]: Minecraft-Version-Specific DataFixes for Wilder Wild have been applied
+[02:11:22] [main/INFO]: Applying DataFixes for Wilder Wild with Data Version 28
+[02:11:22] [FrozenLib Quilt Datafixer Bootstrap/INFO]: 27 Datafixer optimizations took 29 milliseconds
+[02:11:22] [main/INFO]: DataFixes for Wilder Wild have been applied
+[02:11:24] [main/INFO]: Adding Music And Ambience for wilderwild
+[02:11:24] [main/INFO]: Overriding Water Colors for wilderwild
+[02:11:24] [main/WARN]: Encountered duplicate API provider registration for block: wilderwild:stone_chest
+[02:11:24] [main/INFO]: Loading config WWWorldgenConfig from wilderwild
+[02:11:24] [main/INFO]: Saving config WWWorldgenConfig from wilderwild
+[02:11:24] [main/INFO]: Saving config WWMixinsConfig from wilderwild
+[02:11:24] [main/INFO]: Saving config WWBlockConfig from wilderwild
+[02:11:24] [main/INFO]: Saving config WWEntityConfig from wilderwild
+[02:11:24] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[02:11:24] [main/INFO]: Saving config WWWorldgenConfig from wilderwild
+[02:11:24] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:11:28] [main/INFO]: Loaded 1761 recipes
+[02:11:28] [main/INFO]: Loading config WWAmbienceAndMiscConfig from wilderwild
+[02:11:28] [main/INFO]: Saving config WWAmbienceAndMiscConfig from wilderwild
+[02:11:28] [main/INFO]: Loaded 2038 advancements
+[02:11:28] [main/INFO]: Applied 3645 biome modifications to 98 of 98 new biomes in 144.3 ms
+[02:11:28] [Server thread/INFO]: [Quilt DFU API] Serverside DataFixer Registry is about to freeze
+[02:11:28] [Server thread/INFO]: [Quilt DFU API] Serverside DataFixer Registry was frozen
+[02:11:28] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[02:11:28] [Server thread/INFO]: Loading properties
+[02:11:28] [Server thread/INFO]: Default game type: SURVIVAL
+[02:11:28] [Server thread/INFO]: Generating keypair
+[02:11:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:11:29] [Server thread/INFO]: Using epoll channel type
+[02:11:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:11:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:11:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:11:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:11:29] [Server thread/INFO]: Preparing level "world"
+[02:11:29] [Server thread/INFO]: Wilder Wild's Overworld Surface Rules have been added!
+[02:11:29] [Server thread/INFO]: Wilder Wild's No Preliminary Surface Overworld Surface Rules have been added!
+[02:11:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:40] [Server thread/INFO]: Time elapsed: 10700 ms
+[02:11:40] [Server thread/INFO]: Done (11.206s)! For help, type "help"
+[02:12:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:16:39] [Server thread/INFO]: Hitler[/127.103.26.20:57221] logged in with entity id 17 at (1.5, 111.0, 10.5)
+[02:16:39] [Server thread/INFO]: Hitler joined the game
+[02:16:39] [Server thread/INFO]: Hitler has made the advancement [Useless Reptile]
+[02:18:21] [Server thread/INFO]: Set the time to 1000
+[02:20:57] [Server thread/INFO]: Avocado_20[/127.64.150.94:60145] logged in with entity id 812 at (-312.232637131122, 109.0, 176.39273573029044)
+[02:20:57] [Server thread/INFO]: Avocado_20 joined the game
+[02:21:58] [Server thread/INFO]: [Not Secure] <Avocado_20> -300 153
+[02:24:33] [Server thread/INFO]: Teleported Hitler to Avocado_20
+[02:30:35] [Server thread/INFO]: Hitler was slain by Avocado_20
+[02:44:28] [Server thread/INFO]: Hitler was slain by Iron Golem
+[02:48:09] [Server thread/INFO]: Made Avocado_20 a server operator
+[02:48:12] [Server thread/INFO]: [Avocado_20: Set own game mode to Creative Mode]
+[02:48:46] [Server thread/INFO]: Avocado_20 has made the advancement [Light in an End of a Tunnel]
+[02:48:57] [Server thread/INFO]: Avocado_20 has made the advancement [Best Friends Forever]
+[02:48:57] [Server thread/INFO]: Avocado_20 has made the advancement [What Lies Beneath]
+[02:49:10] [Server thread/INFO]: Hitler was slain by Moleclaw
+[02:49:25] [Server thread/INFO]: Hitler was slain by Moleclaw
+[02:49:58] [Server thread/INFO]: Hitler has made the advancement [Sweet Dreams]
+[02:50:35] [Server thread/INFO]: Hitler was slain by Moleclaw
