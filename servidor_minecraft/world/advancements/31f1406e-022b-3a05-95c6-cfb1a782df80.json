@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-12 03:11:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-06-12 02:22:45 +0000"
@@ -32,6 +38,18 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-12 02:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-12 03:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-12 03:11:20 +0000"
     },
     "done": true
   },
@@ -191,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-12 03:11:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2025-06-12 03:00:32 +0000"
@@ -212,6 +236,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-06-12 02:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-12 03:11:20 +0000"
     },
     "done": true
   },
@@ -263,6 +293,12 @@
     },
     "done": true
   },
+  "uselessreptile:dragon/tame_wyvern": {
+    "criteria": {
+      "entity_tamed": "2025-06-12 03:11:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-12 03:02:32 +0000"
@@ -278,6 +314,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-06-12 02:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-12 03:10:03 +0000"
     },
     "done": true
   },
@@ -333,6 +375,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-06-12 03:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-12 03:10:03 +0000"
     },
     "done": true
   },

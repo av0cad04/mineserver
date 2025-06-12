@@ -216,3 +216,37 @@
 [03:11:02] [Netty Epoll Server IO #0/INFO]: Loading config WWItemConfig from wilderwild
 [03:11:02] [Netty Epoll Server IO #0/INFO]: Saving config WWItemConfig from wilderwild
 [03:11:02] [Server thread/INFO]: Saving config WWItemConfig from wilderwild
+[03:11:59] [Server thread/INFO]: Hitler has made the advancement [Best Friends Forever]
+[03:11:59] [Server thread/INFO]: Hitler has made the advancement [Wings, Legs and Tails]
+[03:13:42] [Server thread/INFO]: Hitler was melted by Swamp Wyvern
+[03:25:56] [Server thread/WARN]: Avocado_20 moved too quickly! 0.47201297361249317,0.0,10.830631877458131
+[03:26:46] [Server thread/WARN]: Avocado_20 moved too quickly! 1.0269419344644177,3.3750001341104507,9.74524500269274
+[03:32:27] [Server thread/WARN]: Swamp Wyvern (vehicle of Hitler) moved too quickly! 15.685766361810977,0.0,-0.7509153218429674
+[03:32:27] [Server thread/WARN]: Swamp Wyvern (vehicle of Hitler) moved too quickly! 15.622028458054615,0.0,-0.9884974901954138
+[03:32:27] [Server thread/WARN]: Swamp Wyvern (vehicle of Hitler) moved too quickly! 18.11056202191122,0.0,-3.2387461244792632
+[03:32:27] [Server thread/WARN]: Swamp Wyvern (vehicle of Hitler) moved too quickly! 17.494962086909936,0.0,-3.1664726087518886
+[03:32:27] [Server thread/WARN]: Swamp Wyvern (vehicle of Hitler) moved too quickly! 16.884053055530273,0.0,-3.0964298699475137
+[03:32:27] [Server thread/WARN]: Swamp Wyvern (vehicle of Hitler) moved too quickly! 16.27756008783092,0.0,-3.026219596613231
+[03:32:27] [Server thread/WARN]: Swamp Wyvern (vehicle of Hitler) moved too quickly! 15.675313192965803,0.0,-2.95371240746465
+[03:32:27] [Server thread/WARN]: Swamp Wyvern (vehicle of Hitler) moved too quickly! 15.077235517665656,0.0,-2.877021367874619
+[03:32:27] [Server thread/WARN]: Swamp Wyvern (vehicle of Hitler) moved too quickly! 14.483332798150116,0.0,-2.794478358444451
+[03:32:27] [Server thread/WARN]: Swamp Wyvern (vehicle of Hitler) moved too quickly! 13.89368542815032,0.0,-2.704607229107154
+[03:33:54] [Server thread/INFO]: Hitler lost connection: Disconnected
+[03:33:54] [Server thread/INFO]: Hitler left the game
+[03:34:19] [Server thread/INFO]: [Avocado_20: Set own game mode to Survival Mode]
+[03:34:24] [Server thread/INFO]: [Avocado_20: Made Avocado_20 no longer a server operator]
+[03:34:26] [Server thread/INFO]: Avocado_20 lost connection: Disconnected
+[03:34:26] [Server thread/INFO]: Avocado_20 left the game
+[03:34:35] [Server thread/INFO]: Stopping the server
+[03:34:35] [Server thread/INFO]: Stopping server
+[03:34:35] [Server thread/INFO]: Saving players
+[03:34:35] [Server thread/INFO]: Saving worlds
+[03:34:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:34:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/kattersstructures:deep_blue
+[03:34:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:34:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:34:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:34:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (deep_blue): All chunks are saved
+[03:34:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:34:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:34:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

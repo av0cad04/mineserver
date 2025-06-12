@@ -989,6 +989,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2025-06-12 03:22:38 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-06-12 02:35:20 +0000"
@@ -1004,6 +1010,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-12 03:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-12 03:10:10 +0000"
     },
     "done": true
   },
@@ -1028,6 +1040,18 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-12 03:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-12 03:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-12 03:10:31 +0000"
     },
     "done": true
   },
@@ -1121,6 +1145,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-12 03:08:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-06-12 02:35:20 +0000"
@@ -1133,9 +1163,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-12 03:10:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-06-12 03:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 03:14:09 +0000"
     },
     "done": true
   },
@@ -1163,6 +1205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-12 03:10:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-12 03:05:01 +0000"
@@ -1187,15 +1235,51 @@
     },
     "done": true
   },
+  "uselessreptile:recipes/misc/leather": {
+    "criteria": {
+      "has_material": "2025-06-12 03:14:09 +0000"
+    },
+    "done": true
+  },
+  "uselessreptile:dragon/tame_wyvern": {
+    "criteria": {
+      "entity_tamed": "2025-06-12 03:10:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-12 03:05:01 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-12 03:10:10 +0000"
+    },
+    "done": true
+  },
+  "uselessreptile:dragon/use_flute": {
+    "criteria": {
+      "use_item": "2025-06-12 03:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-12 03:10:10 +0000"
+    },
+    "done": true
+  },
   "uselessreptile:dragon/tame_river_pikehorn": {
     "criteria": {
       "entity_tamed": "2025-06-12 03:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-12 03:30:20 +0000"
     },
     "done": true
   },
